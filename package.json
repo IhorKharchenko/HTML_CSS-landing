@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url=/magiccostyle-project/",
+    "predeploy": "npm run build -- --public-url=/HTML_CSS-landing/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
